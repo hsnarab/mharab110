@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi there! I'm Mohammad Hossein Arab!
 
-<!--
-**mharab110/mharab110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A passionate programmer who loves to learn new things!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: mohammadhosseinarab110@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>My Favorite Technologies</h2>
+
+> Tools, languages and other things I like to work with.
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux,python,django,flask,cs,git" />
+  </a>
+</p>
